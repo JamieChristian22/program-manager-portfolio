@@ -1,4 +1,4 @@
-# Program Manager – Elite Portfolio (10/10)
+# Program Manager 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Program%20Manager-blue?style=for-the-badge" />
