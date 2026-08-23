@@ -1,0 +1,9 @@
+Cost Category,Baseline Budget,Actual to Date,Estimate to Complete,Estimate at Completion,Variance $,Variance %,Status
+Program Management & PMO,168000.0,162960.0,1764.0,164724.0,-3276.0,-0.0195,Within tolerance
+Platform / Technology,546000.0,556920.0,0.0,556920.0,10920.0,0.02,Within tolerance
+Implementation Services,399000.0,395010.0,1197.0,396207.0,-2793.0,-0.007,Within tolerance
+Security / Controls,231000.0,233310.0,0.0,233310.0,2310.0,0.01,Within tolerance
+Data & Integration,252000.0,241920.0,2520.0,244440.0,-7560.0,-0.03,Within tolerance
+Testing & Quality,168000.0,173040.0,0.0,173040.0,5040.0,0.03,Within tolerance
+Change & Training,147000.0,144060.0,588.0,144648.0,-2352.0,-0.016,Within tolerance
+Contingency,189000.0,171990.0,10206.0,182196.0,-6804.0,-0.036,Within tolerance

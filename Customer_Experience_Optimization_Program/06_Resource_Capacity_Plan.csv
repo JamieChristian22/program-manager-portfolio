@@ -1,0 +1,11 @@
+Role,Available FTE,Peak Demand FTE,Utilization,Capacity Gap,Allocation Note,Action
+Program Manager,1.0,0.8,0.8,0.0,Dedicated / shared coverage,No action required
+PMO Analyst,1.0,1.0,1.0,0.0,Dedicated / shared coverage,No action required
+Business Lead,1.0,1.2,1.2,0.2,Cross-workstream specialist,Protect critical-path allocation
+Solution/Process Architect,1.0,0.8,0.8,0.0,Dedicated / shared coverage,No action required
+Technical Lead,1.5,1.5,1.0,0.0,Dedicated / shared coverage,No action required
+Data/Integration Lead,1.0,1.0,1.0,0.0,Dedicated / shared coverage,No action required
+Security/Compliance Lead,1.0,0.8,0.8,0.0,Dedicated / shared coverage,No action required
+QA Lead,1.0,0.9,0.9,0.0,Dedicated / shared coverage,No action required
+Change Lead,1.0,0.7,0.7,0.0,Dedicated / shared coverage,No action required
+Operations Lead,1.0,0.8,0.8,0.0,Dedicated / shared coverage,No action required

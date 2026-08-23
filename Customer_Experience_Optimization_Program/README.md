@@ -1,91 +1,39 @@
-# 🎯 Customer Experience Optimization Program  
-**Enterprise-Style Program Management Case Study**  
-**Jamie Christian**
+# Customer Experience Optimization Program
 
-> A realistic enterprise program simulating how a Program Manager would lead customer experience transformation using data, stakeholder alignment, and measurable outcomes.
+A 10-month cross-functional program redesigning customer support journeys, digital self-service, voice-of-customer analytics, agent workflows, and service governance across web, contact center, and operations.
 
----
+## Program Snapshot
+| Dimension | Value |
+|---|---|
+| Simulated budget | $2,100,000 |
+| Duration | 10 months |
+| Workstreams | 5 |
+| Stakeholders | 86 |
+| Forecast annualized benefits | $1,802,000 |
 
-## 📌 Program Overview
+## Workstreams
+- Voice of Customer
+- Digital Self-Service
+- Contact Center Process
+- CRM & Knowledge
+- Change, Training & Measurement
 
-This program represents a company-wide initiative focused on improving customer satisfaction, retention, and service performance across digital and operational touchpoints.
+## Fully Populated Artifacts
+- `01_Program_Charter.pdf`
+- `02_Integrated_Program_Plan.pdf`
+- `03_Dependency_Register.csv`
+- `04_Program_Budget_Forecast.csv`
+- `05_Benefits_Realization_Tracker.csv`
+- `06_Resource_Capacity_Plan.csv`
+- `07_RAID_Log.csv`
+- `08_Decision_Log.csv`
+- `09_Change_Request_Log.csv`
+- `10_Governance_Calendar.pdf`
+- `11_Steering_Committee_Action_Tracker.csv`
+- `12_Executive_Status_Report.pdf`
+- `13_KPI_Dashboard.csv`
+- `14_Stakeholder_Engagement_Plan.pdf`
+- `15_Program_Closure_Report.pdf`
+- `16_Executive_Steering_Deck.pptx`
 
-The work simulates how a Program Manager drives measurable CX improvements at scale.
-
----
-
-## 🎯 Program Objectives
-
-- Improve customer satisfaction (CSAT / NPS)  
-- Reduce friction across customer journeys  
-- Increase retention and lifetime value  
-- Align teams around VOC (Voice of Customer) insights  
-- Establish executive-level reporting  
-
----
-
-## 📂 Included Artifacts
-
-Artifacts in this folder demonstrate how CX programs are structured and delivered in real organizations, including:
-
-- Program case study documentation  
-- Roadmap and initiative planning  
-- KPI tracking and dashboards  
-- Stakeholder alignment artifacts  
-- Executive-style reporting materials  
-
----
-
-## 📊 Example Metrics Tracked
-
-- Net Promoter Score (NPS)  
-- Customer Satisfaction (CSAT)  
-- First Contact Resolution  
-- Time-to-Resolution  
-- Customer effort score  
-- Retention trends  
-
-These reflect the type of visibility executives expect from customer-facing transformation programs.
-
----
-
-## 🧠 Skills Demonstrated
-
-- Customer-Centered Program Design  
-- Data-Driven Decision Making  
-- Stakeholder Management  
-- KPI Development  
-- Executive Reporting  
-- Cross-Functional Coordination  
-- Change Enablement  
-
----
-
-## 🛠️ Tools Reflected
-
-- Excel dashboards and trackers  
-- PowerPoint-style executive reporting  
-- Program roadmapping  
-- Enterprise documentation standards  
-
----
-
-## ⭐ Why This Matters to Recruiters
-
-This folder demonstrates how I:
-
-- Lead programs tied directly to business outcomes  
-- Translate customer insights into strategy  
-- Build executive visibility  
-- Structure work like real enterprise PM roles  
-
----
-
-## 🔗 Portfolio Home
-
-⬅️ Return to main portfolio:  
-https://github.com/JamieChristian22/program-manager-portfolio
-
----
-
-**Built by Jamie Christian — Program, Delivery & Transformation Portfolio**
+> Disclosure: This is a realistic portfolio simulation. All organizations, metrics, budgets, and outcomes are fictionalized for demonstration.

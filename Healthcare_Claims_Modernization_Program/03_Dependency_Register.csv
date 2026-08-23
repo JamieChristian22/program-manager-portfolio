@@ -1,0 +1,10 @@
+ID,Upstream Workstream,Downstream Workstream,Dependency / Acceptance,Needed By,Forecast,Criticality,Owner,Status,Response
+D-001,Claims Platform,Rules & Configuration,Approved design,Month 2,Month 3,High,Program Manager,Complete,Weekly review; escalate if acceptance date slips >5 business days.
+D-002,Rules & Configuration,Data & Integration,Configured environment,Month 3,Month 4,Medium,Technology Lead,Complete,Weekly review; escalate if acceptance date slips >5 business days.
+D-003,Data & Integration,Compliance & Controls,Validated data/interface,Month 4,Month 5,High,Business Lead,Monitoring,Weekly review; escalate if acceptance date slips >5 business days.
+D-004,Compliance & Controls,Provider Operations,Security/control signoff,Month 5,Month 6,Medium,Control Lead,Complete,Weekly review; escalate if acceptance date slips >5 business days.
+D-005,Provider Operations,"Testing, Cutover & Hypercare",Approved design,Month 6,Month 7,High,Program Manager,Complete,Weekly review; escalate if acceptance date slips >5 business days.
+D-006,"Testing, Cutover & Hypercare",Claims Platform,Configured environment,Month 7,Month 8,Medium,Technology Lead,Monitoring,Weekly review; escalate if acceptance date slips >5 business days.
+D-007,Claims Platform,Rules & Configuration,Validated data/interface,Month 8,Month 9,High,Business Lead,Complete,Weekly review; escalate if acceptance date slips >5 business days.
+D-008,Rules & Configuration,Data & Integration,Security/control signoff,Month 9,Month 10,Medium,Control Lead,Complete,Weekly review; escalate if acceptance date slips >5 business days.
+D-009,Data & Integration,Compliance & Controls,Approved design,Month 10,Month 11,High,Program Manager,Monitoring,Weekly review; escalate if acceptance date slips >5 business days.

@@ -1,92 +1,41 @@
-# 🏢 Enterprise Digital Transformation Program  
-**Enterprise-Scale Program Simulation**  
-**Jamie Christian**
+# Enterprise Digital Transformation Program
 
-> A realistic portfolio demonstrating how a Program Manager leads organization-wide transformation involving technology, operations, governance, and executive alignment.
+An 18-month enterprise modernization program integrating process redesign, workflow digitization, data governance, collaboration tooling, operating-model changes, and portfolio governance across seven business functions.
 
----
+## Program Snapshot
+| Dimension | Value |
+|---|---|
+| Simulated budget | $7,200,000 |
+| Duration | 18 months |
+| Workstreams | 7 |
+| Stakeholders | 168 |
+| Forecast annualized benefits | $3,745,000 |
 
-## 📌 Program Overview
+## Workstreams
+- Process Redesign
+- Workflow Automation
+- Data & Analytics
+- Collaboration Platform
+- Operating Model
+- Change & Adoption
+- Portfolio Governance
 
-This program simulates a multi-year digital transformation initiative focused on modernizing tools, workflows, and operating models across an enterprise organization.
+## Fully Populated Artifacts
+- `01_Program_Charter.pdf`
+- `02_Integrated_Program_Plan.pdf`
+- `03_Dependency_Register.csv`
+- `04_Program_Budget_Forecast.csv`
+- `05_Benefits_Realization_Tracker.csv`
+- `06_Resource_Capacity_Plan.csv`
+- `07_RAID_Log.csv`
+- `08_Decision_Log.csv`
+- `09_Change_Request_Log.csv`
+- `10_Governance_Calendar.pdf`
+- `11_Steering_Committee_Action_Tracker.csv`
+- `12_Executive_Status_Report.pdf`
+- `13_KPI_Dashboard.csv`
+- `14_Stakeholder_Engagement_Plan.pdf`
+- `15_Program_Closure_Report.pdf`
+- `16_Executive_Steering_Deck.pptx`
 
-It reflects the types of initiatives seen in Fortune 500, healthcare systems, financial institutions, and large tech organizations.
-
----
-
-## 🎯 Program Objectives
-
-- Modernize business processes and tooling  
-- Improve operational efficiency  
-- Strengthen cross-team alignment  
-- Establish governance and accountability  
-- Deliver executive-ready performance reporting  
-
----
-
-## 📂 Included Artifacts
-
-Artifacts in this folder represent realistic transformation program deliverables, such as:
-
-- Transformation roadmaps  
-- Portfolio prioritization artifacts  
-- Governance models  
-- Executive reporting decks  
-- KPI and performance tracking  
-- Change management artifacts  
-
----
-
-## 📊 Example Focus Areas
-
-- Process modernization  
-- Technology enablement  
-- Operating model redesign  
-- Leadership alignment  
-- Cross-functional dependency management  
-- Long-term transformation measurement  
-
----
-
-## 🧠 Skills Demonstrated
-
-- Enterprise Program Structuring  
-- Strategic Roadmapping  
-- Governance Design  
-- Stakeholder Alignment  
-- Executive Communication  
-- Risk & Dependency Management  
-- Organizational Change Awareness  
-
----
-
-## 🛠️ Tools Reflected
-
-- Excel-based tracking tools  
-- PowerPoint executive artifacts  
-- Program planning frameworks  
-- Enterprise documentation structure  
-
----
-
-## ⭐ Why This Matters to Recruiters
-
-This program shows I can operate at:
-
-- Portfolio level  
-- Executive visibility level  
-- Cross-functional complexity  
-- Enterprise-scale coordination  
-
-Exactly the environment senior Program Managers operate in.
-
----
-
-## 🔗 Portfolio Home
-
-⬅️ Return to main portfolio:  
-https://github.com/JamieChristian22/program-manager-portfolio
-
----
-
-**Built by Jamie Christian — Program, Delivery & Transformation Portfolio**
+> Disclosure: This is a realistic portfolio simulation. All organizations, metrics, budgets, and outcomes are fictionalized for demonstration.

@@ -1,0 +1,5 @@
+ID,Benefit,Type,Planned Value,Forecast/Realized,Variance $,Variance %,Owner,Measurement Method,Realization Date,Status
+B-001,Retention uplift,Annual recurring,780000,840000,60000,0.0769,Finance Benefit Owner,Finance-approved KPI / operational ledger,Month 8,Validated
+B-002,Reduced support handling cost,Annual recurring,420000,465000,45000,0.1071,Operations Benefit Owner,Finance-approved KPI / operational ledger,Month 9,Validated
+B-003,Digital containment savings,Annual recurring,260000,292000,32000,0.1231,Technology Benefit Owner,Finance-approved KPI / operational ledger,Month 10,Validated
+B-004,Productivity / rework reduction,Annual recurring,180000,205000,25000,0.1389,Business Benefit Owner,Finance-approved KPI / operational ledger,Month 8,Tracking

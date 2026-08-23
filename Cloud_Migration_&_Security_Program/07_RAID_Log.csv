@@ -1,0 +1,9 @@
+ID,Type,Description,Probability,Impact,Response / Mitigation,Owner,Status,Raised,Review Cadence
+R-001,Risk,Legacy application incompatibility,High,High,Application remediation sprint and containerization assessment,App Modernization Lead,Mitigated,Month 1,Monthly steering
+R-002,Risk,Identity federation delays,Medium,High,Prioritize SSO integration and establish break-glass access,Security Lead,Closed,Month 1,Monthly steering
+R-003,Risk,Migration wave resource contention,High,Medium,Capacity plan with protected migration windows and backup engineers,Program Manager,Monitoring,Month 1,Monthly steering
+R-004,Risk,Unexpected cloud spend,Medium,Medium,"FinOps budgets, tagging policy, rightsizing reviews and reserved capacity analysis",Cloud Platform Lead,Mitigated,Month 1,Monthly steering
+R-005,Risk,Business cutover resistance,Medium,Medium,"Change champions, rehearsals, role-based communications and hypercare",Change Lead,Closed,Month 1,Monthly steering
+A-001,Assumption,Business SMEs remain available for design and acceptance.,Medium,Medium,Capacity protected in resource plan.,Business Lead,Validated,Month 1,Weekly
+I-001,Issue,Shared specialist capacity caused a five-day sequencing conflict.,Medium,Medium,Re-sequenced noncritical activity; no critical-path impact.,Program Manager,Closed,Month 6,Closed
+D-001,Dependency,"Operational readiness depends on training, support runbooks and access completion.",High,High,Single readiness gate with named acceptance owners.,Operations Lead,Complete,Month 12,Weekly

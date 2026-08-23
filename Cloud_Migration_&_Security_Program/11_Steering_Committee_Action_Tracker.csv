@@ -1,0 +1,6 @@
+ID,Action,Owner,Due,Status,Closure Evidence
+ACT-001,Confirm benefit measurement data source and owner,Finance Lead,Month 3,Closed,Validated with business owner; baseline locked.
+ACT-002,Resolve specialist resource contention for next release,Program Manager,Month 5,Closed,Protected allocation approved by steering committee.
+ACT-003,Approve residual risk acceptance criteria,Control Lead,Month 7,Closed,Criteria approved; no critical residual risks accepted.
+ACT-004,Complete operational readiness evidence,Operations Lead,Month 12,Closed,"Runbooks, access, support, training and escalation model accepted."
+ACT-005,Schedule 30/60/90-day benefit reviews,Business Sponsor,Month 14,Open / BAU,Calendar transferred to benefit owners after closure.

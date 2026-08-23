@@ -1,124 +1,24 @@
-# 📌 Program Manager Portfolio  
-**Jamie Christian II — Enterprise Program, Delivery & Transformation**
+# Program Manager Portfolio — Enterprise Program Leadership
 
-![Program Manager](https://img.shields.io/badge/Role-Program%20Manager-blue)
-![Agile](https://img.shields.io/badge/Frameworks-Agile%20%7C%20Scrum%20%7C%20Waterfall-success)
-![Artifacts](https://img.shields.io/badge/Artifacts-RAID%20%7C%20KPIs%20%7C%20Exec%20Decks-orange)
-![Tools](https://img.shields.io/badge/Tools-Jira%20%7C%20Excel%20%7C%20PowerPoint%20%7C%20Confluence-purple)
+**Jamie Christian II | Program, Delivery & Transformation**
 
-> A recruiter-ready portfolio demonstrating real-world, enterprise-style program leadership across cloud transformation, customer experience, healthcare modernization, and digital operations.
+This portfolio contains four fully developed, simulated enterprise programs. Every metric, budget, risk, decision, dependency, benefit, and status entry is populated for demonstration purposes; there are no blank templates or placeholder fields.
 
----
+## Portfolio at a Glance
+- 4 enterprise programs
+- $20.4M combined simulated program budget
+- 24 cross-functional workstreams
+- 520 simulated stakeholders
+- Integrated plans, dependencies, budgets, benefits, RAID, decisions, governance, status reporting, resource capacity, change control, steering materials, closure reports, and KPI dashboards
+- Domains: cloud/security, customer experience, enterprise transformation, healthcare claims
 
-## 👋 About This Portfolio
+## Featured Programs
+1. **Enterprise Cloud Migration & Security** — 14 months, $4.8M, 38 applications, 6 workstreams.
+2. **Customer Experience Optimization** — 10 months, $2.1M, 5 workstreams, VOC + service transformation.
+3. **Enterprise Digital Transformation** — 18 months, $7.2M, 7 workstreams, 24 digitized workflows.
+4. **Healthcare Claims Modernization** — 16 months, $6.3M, 6 workstreams, claims + compliance modernization.
 
-This repository showcases **end-to-end Program Management capabilities** using realistic, job-aligned artifacts — the same types of deliverables used in enterprise environments.
+## Program Management Capabilities Demonstrated
+Program chartering; integrated planning; cross-project dependency management; budget and forecast control; benefits realization; resource/capacity planning; RAID; decision governance; change control; executive status reporting; steering committee leadership; KPI management; stakeholder engagement; change adoption; cutover/hypercare; lessons learned; transition to operations.
 
-You will find:
-- Executive-ready PowerPoint decks  
-- RAID logs and risk frameworks  
-- KPI dashboards and reporting  
-- Roadmaps and delivery plans  
-- Stakeholder communication artifacts  
-- Governance and operating models  
-
-Each program folder represents a **complete simulated enterprise engagement**, not placeholders.
-
----
-
-## 📂 Featured Programs
-
-### ☁️ Cloud Migration & Security Program  
-📁 `Cloud_Migration_&_Security_Program`
-- Executive roadmap  
-- Migration wave plan  
-- Security governance  
-- RAID log  
-- KPI reporting  
-- Steering committee deck  
-
----
-
-### 🎯 Customer Experience Optimization Program  
-📁 `Customer_Experience_Optimization_Program`
-- VOC strategy  
-- CX metrics framework  
-- Executive dashboard  
-- Change management plan  
-- Delivery roadmap  
-
----
-
-### 🏢 Enterprise Digital Transformation Program  
-📁 `Enterprise_Digital_Transformation_Program`
-- Operating model redesign  
-- Portfolio roadmap  
-- Transformation KPIs  
-- Dependency mapping  
-- Exec alignment artifacts  
-
----
-
-### 🏥 Healthcare Claims Modernization Program  
-📁 `Healthcare_Claims_Modernization_Program`
-- System modernization plan  
-- Regulatory considerations  
-- Stakeholder matrix  
-- Risk controls  
-- Delivery governance  
-
----
-
-## 📄 Core Documents
-
-| File | Purpose |
-|------|--------|
-| `00_Program_Leadership_Philosophy.docx` | Leadership approach to programs, teams, and delivery |
-| `01_Executive_Overview.docx` | High-level executive overview of this portfolio |
-| `README.md` | Portfolio navigation and recruiter context |
-
----
-
-## 🧠 Skills Demonstrated
-
-- Program & Portfolio Management  
-- Executive Communication  
-- Roadmapping & Strategic Planning  
-- Risk, Issues, Dependencies (RAID)  
-- KPI & Performance Tracking  
-- Stakeholder Management  
-- Governance & Operating Models  
-- Agile / Hybrid Delivery  
-- Business Transformation  
-- Cross-functional Leadership  
-
----
-
-## 🛠️ Tools Reflected Across Artifacts
-
-- Microsoft Excel (RAID logs, trackers, KPIs)  
-- Microsoft PowerPoint (Exec decks, steering updates)  
-- Program Roadmaps  
-- Governance frameworks  
-- Realistic enterprise documentation structure  
-- Communication & delivery artifacts  
-
-> These deliverables mirror what hiring managers expect to see from real-world Program Managers.
-
----
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/jamiechristian2  
-- 🧑‍💻 GitHub: https://github.com/JamieChristian22  
-
----
-
-## ⭐ Why This Portfolio Stands Out
-
-✔ No filler content  
-✔ No empty templates  
-✔ Realistic enterprise deliverables  
-✔ Recruiter-friendly structure  
-✔ Executive-level presentation  
-✔ Built to pass hiring manager review  
+> **Disclosure:** All programs are realistic portfolio simulations. Organizations, budgets, stakeholders, and outcomes are fictionalized for demonstration and are not presented as employment history.

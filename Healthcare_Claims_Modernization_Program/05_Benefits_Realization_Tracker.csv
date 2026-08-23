@@ -1,0 +1,5 @@
+ID,Benefit,Type,Planned Value,Forecast/Realized,Variance $,Variance %,Owner,Measurement Method,Realization Date,Status
+B-001,Claims operations productivity,Annual recurring,1180000,1260000,80000,0.0678,Finance Benefit Owner,Finance-approved KPI / operational ledger,Month 14,Validated
+B-002,Reduced rework / adjustments,Annual recurring,540000,590000,50000,0.0926,Operations Benefit Owner,Finance-approved KPI / operational ledger,Month 15,Validated
+B-003,Platform maintenance reduction,Annual recurring,410000,425000,15000,0.0366,Technology Benefit Owner,Finance-approved KPI / operational ledger,Month 16,Validated
+B-004,Provider service efficiency,Annual recurring,270000,310000,40000,0.1481,Business Benefit Owner,Finance-approved KPI / operational ledger,Month 14,Tracking

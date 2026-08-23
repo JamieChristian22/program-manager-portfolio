@@ -1,0 +1,5 @@
+ID,Decision,Options Considered,Rationale,Approver,Status,Decision Date,Impact,Follow-up
+DEC-001,Adopt phased release/cutover model,Single-event cutover; phased release,Phased approach reduces operational risk and improves learning between waves.,Executive Sponsor,Approved,Month 2,All workstreams,Update integrated plan and communications.
+DEC-002,Protect specialist capacity for critical path,First-come allocation; protected capacity,Prevents shared-resource conflicts from delaying dependent workstreams.,Steering Committee,Approved,Month 4,Technical / control workstreams,Reflect allocation in capacity plan.
+DEC-003,Use formal benefit owners and 30/60/90 validation,Program-only measurement; BAU-owned validation,Sustains accountability after delivery closes.,Business Sponsor,Approved,Month 5,Benefits / operations,Confirm data sources and owners.
+DEC-004,Require readiness gate before production transition,Schedule-based launch; evidence-based gate,"Balances timeline with quality, controls, support and rollback readiness.",Steering Committee,Approved,Month 12,Release / operations,No go-live without complete evidence.

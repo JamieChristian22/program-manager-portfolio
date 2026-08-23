@@ -1,0 +1,5 @@
+ID,Benefit,Type,Planned Value,Forecast/Realized,Variance $,Variance %,Owner,Measurement Method,Realization Date,Status
+B-001,Infrastructure run-cost reduction,Annual recurring,1020000,1090000,70000,0.0686,Finance Benefit Owner,Finance-approved KPI / operational ledger,Month 12,Validated
+B-002,Data center exit / avoided renewal,Annual recurring,620000,620000,0,0.0,Operations Benefit Owner,Finance-approved KPI / operational ledger,Month 13,Validated
+B-003,Reduced outage/productivity loss,Annual recurring,280000,315000,35000,0.125,Technology Benefit Owner,Finance-approved KPI / operational ledger,Month 14,Validated
+B-004,Security tooling consolidation,Annual recurring,190000,205000,15000,0.0789,Business Benefit Owner,Finance-approved KPI / operational ledger,Month 12,Tracking

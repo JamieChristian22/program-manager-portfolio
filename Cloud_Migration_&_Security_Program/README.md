@@ -1,101 +1,40 @@
-# ☁️ Cloud Migration & Security Program  
-**Enterprise-Style Program Management Case Study**  
-**Jamie Christian**
+# Enterprise Cloud Migration & Security Program
 
-> A realistic, end-to-end program portfolio demonstrating how a Program Manager would lead a cloud migration while strengthening security, governance, and executive reporting across the organization.
+A 14-month enterprise transformation to migrate 38 business applications from aging on-premises infrastructure to a secure AWS/Azure operating model while strengthening identity, monitoring, resilience, compliance, and cloud governance.
 
----
+## Program Snapshot
+| Dimension | Value |
+|---|---|
+| Simulated budget | $4,800,000 |
+| Duration | 14 months |
+| Workstreams | 6 |
+| Stakeholders | 124 |
+| Forecast annualized benefits | $2,230,000 |
 
-## 📌 Program Overview
+## Workstreams
+- Application Discovery & Rationalization
+- Cloud Foundation & Networking
+- Identity & Security
+- Migration Factory
+- Testing & Cutover
+- Operations & Change Enablement
 
-This program simulates a large-scale enterprise initiative to:
+## Fully Populated Artifacts
+- `01_Program_Charter.pdf`
+- `02_Integrated_Program_Plan.pdf`
+- `03_Dependency_Register.csv`
+- `04_Program_Budget_Forecast.csv`
+- `05_Benefits_Realization_Tracker.csv`
+- `06_Resource_Capacity_Plan.csv`
+- `07_RAID_Log.csv`
+- `08_Decision_Log.csv`
+- `09_Change_Request_Log.csv`
+- `10_Governance_Calendar.pdf`
+- `11_Steering_Committee_Action_Tracker.csv`
+- `12_Executive_Status_Report.pdf`
+- `13_KPI_Dashboard.csv`
+- `14_Stakeholder_Engagement_Plan.pdf`
+- `15_Program_Closure_Report.pdf`
+- `16_Executive_Steering_Deck.pptx`
 
-- Migrate legacy on-prem systems to the cloud  
-- Improve security posture and compliance readiness  
-- Establish governance and delivery rigor  
-- Deliver measurable outcomes to executives  
-
-This folder contains artifacts commonly used in real-world Program Management roles across tech, healthcare, finance, and consulting environments.
-
----
-
-## 🎯 Program Objectives
-
-- Enable secure cloud adoption at scale  
-- Reduce infrastructure risk and technical debt  
-- Improve visibility through KPIs and dashboards  
-- Strengthen stakeholder alignment and governance  
-- Deliver executive-ready reporting  
-
----
-
-## 📂 Included Artifacts
-
-| File | Purpose |
-|------|--------|
-| `Case_Study.docx` | Full program narrative: scope, approach, risks, outcomes |
-| `Cloud_Migration_&_Security_Program_Executive_Deck.pptx` | Executive steering committee style deck |
-| `KPI_Dashboard.xlsx` | Program metrics dashboard used for leadership reporting |
-| `KPI_Chart.png` | Visual snapshot of key performance indicators |
-| `Program_RAID_Log.xlsx` | Risks, assumptions, issues, and dependencies tracking log |
-
-> These artifacts mirror deliverables used in enterprise PMO, consulting, and transformation roles.
-
----
-
-## 📊 Example Metrics Tracked
-
-- Migration completion by wave  
-- Critical risk exposure  
-- Security control coverage  
-- Delivery milestones  
-- Stakeholder readiness  
-- Escalation trends  
-
-These KPIs demonstrate how a Program Manager maintains visibility and accountability across complex initiatives.
-
----
-
-## 🧠 Skills Demonstrated
-
-- Program Planning & Structuring  
-- Executive Communication  
-- RAID Management  
-- KPI & Performance Reporting  
-- Governance & Risk Control  
-- Stakeholder Alignment  
-- Delivery Leadership  
-- Enterprise Documentation  
-
----
-
-## 🛠️ Tools Reflected
-
-- Microsoft Excel (dashboards, trackers, RAID logs)  
-- Microsoft PowerPoint (executive decks)  
-- Program governance artifacts  
-- Realistic enterprise documentation structure  
-
----
-
-## ⭐ Why This Matters to Recruiters
-
-This is not a template pack.  
-This is a **job-aligned simulation** showing how I:
-
-- Think like a Program Manager  
-- Structure real deliverables  
-- Communicate to executives  
-- Manage risk and outcomes  
-- Operate in enterprise environments  
-
----
-
-## 🔗 Portfolio Home
-
-⬅️ Return to main portfolio:  
-https://github.com/JamieChristian22/program-manager-portfolio
-
----
-
-**Built by Jamie Christian — Program, Delivery & Transformation Portfolio**
+> Disclosure: This is a realistic portfolio simulation. All organizations, metrics, budgets, and outcomes are fictionalized for demonstration.

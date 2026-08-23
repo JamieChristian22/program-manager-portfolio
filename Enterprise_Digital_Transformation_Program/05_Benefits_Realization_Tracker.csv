@@ -1,0 +1,5 @@
+ID,Benefit,Type,Planned Value,Forecast/Realized,Variance $,Variance %,Owner,Measurement Method,Realization Date,Status
+B-001,Labor productivity capacity,Annual recurring,1650000,1780000,130000,0.0788,Finance Benefit Owner,Finance-approved KPI / operational ledger,Month 16,Validated
+B-002,Process error reduction,Annual recurring,520000,565000,45000,0.0865,Operations Benefit Owner,Finance-approved KPI / operational ledger,Month 17,Validated
+B-003,Legacy tooling retirement,Annual recurring,740000,720000,-20000,-0.027,Technology Benefit Owner,Finance-approved KPI / operational ledger,Month 18,Validated
+B-004,Faster revenue / service cycle,Annual recurring,610000,680000,70000,0.1148,Business Benefit Owner,Finance-approved KPI / operational ledger,Month 16,Tracking

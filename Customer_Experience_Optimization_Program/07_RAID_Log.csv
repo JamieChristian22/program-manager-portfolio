@@ -1,0 +1,9 @@
+ID,Type,Description,Probability,Impact,Response / Mitigation,Owner,Status,Raised,Review Cadence
+R-001,Risk,VOC data fragmented across channels,High,Medium,"Common taxonomy, data dictionary, and weekly quality checks",CX Analytics Lead,Mitigated,Month 1,Monthly steering
+R-002,Risk,Agent adoption of new workflows,Medium,High,"Pilot cohort, floor support, coaching and adoption dashboard",Change Lead,Closed,Month 1,Monthly steering
+R-003,Risk,Self-service creates dead-end journeys,Medium,High,Human escalation criteria and journey usability testing,Digital Lead,Monitoring,Month 1,Monthly steering
+R-004,Risk,CRM configuration backlog,High,Medium,Dedicated sprint capacity and priority governance,Technology Lead,Mitigated,Month 1,Monthly steering
+R-005,Risk,Metric definitions disputed,Medium,Medium,"KPI charter with approved formulas, sources and owners",Program Manager,Closed,Month 1,Monthly steering
+A-001,Assumption,Business SMEs remain available for design and acceptance.,Medium,Medium,Capacity protected in resource plan.,Business Lead,Validated,Month 1,Weekly
+I-001,Issue,Shared specialist capacity caused a five-day sequencing conflict.,Medium,Medium,Re-sequenced noncritical activity; no critical-path impact.,Program Manager,Closed,Month 6,Closed
+D-001,Dependency,"Operational readiness depends on training, support runbooks and access completion.",High,High,Single readiness gate with named acceptance owners.,Operations Lead,Complete,Month 8,Weekly

@@ -1,0 +1,5 @@
+ID,Change,Requester,Scope Impact,Schedule Impact,Risk Impact,Cost Impact,Days Impact,Business Rationale,Decision,Affected Area,Raised
+CR-001,Add enhanced executive benefit reporting,Business Sponsor,Medium,Low,Low,85000,0,Improves benefit transparency without moving critical path.,Approved,Finance / PMO,Month 4
+CR-002,Expand pilot population by 20%,Operations Lead,Medium,Medium,Low,45000,5,Additional validation lowers scaled-release risk.,Approved,Pilot / testing,Month 7
+CR-003,Accelerate noncritical enhancement,Business Lead,Low,Medium,Medium,120000,-10,Benefit does not justify resource disruption to critical path.,Rejected,None,Month 8
+CR-004,Add 30-day extended hypercare,Program Manager,Low,Low,Low,60000,0,Protects transition and captures early operational trends.,Approved,Operations / support,Month 12
