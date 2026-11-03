@@ -854,3 +854,7 @@ Organizations, budgets, stakeholder counts, timelines, financial benefits, progr
 ---
 
 **Built by Jamie Christian II — Program Management • Enterprise Delivery • Transformation**
+
+## License and third-party materials
+
+See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, images, and other assets retain their respective terms.
